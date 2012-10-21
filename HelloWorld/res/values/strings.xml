@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Il Sabato Del Villaggio</string>
+  
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Il sabato del villaggio</string>
+
+
+    <string name="Poesia">
+La donzelletta vien dalla campagna 
+in sul calar del sole,
+col suo fascio dell erba; e reca in mano
+un mazzolin di rose e viole,
+onde, siccome suole, ornare ella si appresta
+dimani, al dí di festa, il petto e il crine.
+Siede con le vicine
+su la scala a filar la vecchierella,
+incontro là dove si perde il giorno;
+e novellando vien del suo buon tempo,
+quando ai dí della festa ella si ornava,
+ed ancor sana e snella
+solea danzar la sera intra di quei
+ch  ebbe compagni nell  età piú bella.
+ </string>
+ 
+    
+    <color name="Red"> #F00000 </color>
+
+</resources>
